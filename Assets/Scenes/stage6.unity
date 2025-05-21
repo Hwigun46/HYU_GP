@@ -257,21 +257,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1112911581
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1112911577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 470474e7fd1294733ab5bbaeea3376f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 1573901590}
-  offset: {x: 0, y: 1, z: -10}
-  followSpeed: 5
 --- !u!1 &1516726354
 GameObject:
   m_ObjectHideFlags: 0
@@ -1348,4 +1333,3 @@ SceneRoots:
   - {fileID: 774594951}
   - {fileID: 1516726356}
   - {fileID: 1573901590}
-  - {fileID: 1627995361}
