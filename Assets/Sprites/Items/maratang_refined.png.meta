@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      maratang_refined_0: 2821705402753991699
+      maratang_refined_1: -4672792108134989525
+      maratang_refined_2: 3021600619955237746
+      maratang_refined_3: 2184570632064844339
+      maratang_refined_4: -3276903102860553071
+      maratang_refined_5: 7069599132887940111
+      maratang_refined_6: -4041700406516360842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

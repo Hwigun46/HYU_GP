@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chocolate_refined_0: 6589242189045482921
+      chocolate_refined_1: -7786512693312513016
+      chocolate_refined_2: 5459005121549202291
+      chocolate_refined_3: -4208139653875440312
+      chocolate_refined_4: 8013972525868996031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hanyang_0: -7709233409486288287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

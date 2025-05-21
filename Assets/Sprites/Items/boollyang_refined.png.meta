@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boollyang_refined_0: 715694168366476520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
