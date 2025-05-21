@@ -1,0 +1,2980 @@
+fileFormatVersion: 2
+guid: bd838f565fbbb49d1b3ce36634bd524f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1302498120650270839
+    second: blackdragon_refined_0
+  - first:
+      213: -180338117003754840
+    second: blackdragon_refined_1
+  - first:
+      213: 1265175627462215907
+    second: blackdragon_refined_2
+  - first:
+      213: -6869050320321611635
+    second: blackdragon_refined_3
+  - first:
+      213: -1038879950173746235
+    second: blackdragon_refined_4
+  - first:
+      213: -7535282446746761352
+    second: blackdragon_refined_5
+  - first:
+      213: -4796265763133183708
+    second: blackdragon_refined_6
+  - first:
+      213: -6559473953791160391
+    second: blackdragon_refined_7
+  - first:
+      213: 1172743561159088859
+    second: blackdragon_refined_8
+  - first:
+      213: 5766192147971227
+    second: blackdragon_refined_9
+  - first:
+      213: -8436725742207285772
+    second: blackdragon_refined_10
+  - first:
+      213: -3069802557011701943
+    second: blackdragon_refined_11
+  - first:
+      213: 597806836985314772
+    second: blackdragon_refined_12
+  - first:
+      213: 1865663262030776076
+    second: blackdragon_refined_13
+  - first:
+      213: -6205846454372706987
+    second: blackdragon_refined_14
+  - first:
+      213: 7833224748288910236
+    second: blackdragon_refined_15
+  - first:
+      213: -2461777742916922972
+    second: blackdragon_refined_16
+  - first:
+      213: -840819871978276243
+    second: blackdragon_refined_17
+  - first:
+      213: -2124607705959557074
+    second: blackdragon_refined_18
+  - first:
+      213: 4520389271565136364
+    second: blackdragon_refined_19
+  - first:
+      213: 1507219226788064781
+    second: blackdragon_refined_20
+  - first:
+      213: 55138359021625370
+    second: blackdragon_refined_21
+  - first:
+      213: -5444183651339677845
+    second: blackdragon_refined_22
+  - first:
+      213: 2793187850700455164
+    second: blackdragon_refined_23
+  - first:
+      213: 1619970387277759651
+    second: blackdragon_refined_24
+  - first:
+      213: 5702721647368809832
+    second: blackdragon_refined_25
+  - first:
+      213: 8647435038405027234
+    second: blackdragon_refined_26
+  - first:
+      213: 8478987471945485916
+    second: blackdragon_refined_27
+  - first:
+      213: 2326809260746754918
+    second: blackdragon_refined_28
+  - first:
+      213: 2728088337336376893
+    second: blackdragon_refined_29
+  - first:
+      213: 883797156934898036
+    second: blackdragon_refined_30
+  - first:
+      213: 8403702493441519296
+    second: blackdragon_refined_31
+  - first:
+      213: -3236289176009499646
+    second: blackdragon_refined_32
+  - first:
+      213: 6419935048234197803
+    second: blackdragon_refined_33
+  - first:
+      213: 6541296971595400101
+    second: blackdragon_refined_34
+  - first:
+      213: -4146203882640317954
+    second: blackdragon_refined_35
+  - first:
+      213: -5707253088265011302
+    second: blackdragon_refined_36
+  - first:
+      213: -421453614111862841
+    second: blackdragon_refined_37
+  - first:
+      213: -7745900974380023648
+    second: blackdragon_refined_38
+  - first:
+      213: 8737544333738846504
+    second: blackdragon_refined_39
+  - first:
+      213: 1740270820917767433
+    second: blackdragon_refined_40
+  - first:
+      213: -205343614737475980
+    second: blackdragon_refined_41
+  - first:
+      213: -1524921902068803815
+    second: blackdragon_refined_42
+  - first:
+      213: 9143260027109349011
+    second: blackdragon_refined_43
+  - first:
+      213: 3864564178194197122
+    second: blackdragon_refined_44
+  - first:
+      213: 3965463349342065531
+    second: blackdragon_refined_45
+  - first:
+      213: 7987820569028553964
+    second: blackdragon_refined_46
+  - first:
+      213: -2847845982441171044
+    second: blackdragon_refined_47
+  - first:
+      213: 4648136685551768793
+    second: blackdragon_refined_48
+  - first:
+      213: 2941210614074514120
+    second: blackdragon_refined_49
+  - first:
+      213: -1029456759926635209
+    second: blackdragon_refined_50
+  - first:
+      213: 6922778928796920619
+    second: blackdragon_refined_51
+  - first:
+      213: -4061291682500552082
+    second: blackdragon_refined_52
+  - first:
+      213: -1596897753982551335
+    second: blackdragon_refined_53
+  - first:
+      213: 8097860428433440930
+    second: blackdragon_refined_54
+  - first:
+      213: 6496304912512022923
+    second: blackdragon_refined_55
+  - first:
+      213: 7683140538810929668
+    second: blackdragon_refined_56
+  - first:
+      213: -6286282658624346428
+    second: blackdragon_refined_57
+  - first:
+      213: -823210819416144243
+    second: blackdragon_refined_58
+  - first:
+      213: 7631257860602341091
+    second: blackdragon_refined_59
+  - first:
+      213: -4689301770412801318
+    second: blackdragon_refined_60
+  - first:
+      213: 7560931237570741953
+    second: blackdragon_refined_61
+  - first:
+      213: 7708242522891239965
+    second: blackdragon_refined_62
+  - first:
+      213: 5209801513267944402
+    second: blackdragon_refined_63
+  - first:
+      213: 7447118487633956394
+    second: blackdragon_refined_64
+  - first:
+      213: -1279808602951515214
+    second: blackdragon_refined_65
+  - first:
+      213: -1643278530612505397
+    second: blackdragon_refined_66
+  - first:
+      213: -2910168615856248352
+    second: blackdragon_refined_67
+  - first:
+      213: 7135287143507461778
+    second: blackdragon_refined_68
+  - first:
+      213: 1775821431719794472
+    second: blackdragon_refined_69
+  - first:
+      213: -1754526453689254653
+    second: blackdragon_refined_70
+  - first:
+      213: -7359913785155809521
+    second: blackdragon_refined_71
+  - first:
+      213: -6087423092938797081
+    second: blackdragon_refined_72
+  - first:
+      213: 8248360222476992116
+    second: blackdragon_refined_73
+  - first:
+      213: -3048517182213722360
+    second: blackdragon_refined_74
+  - first:
+      213: 1709543447371764098
+    second: blackdragon_refined_75
+  - first:
+      213: -6492721917361359712
+    second: blackdragon_refined_76
+  - first:
+      213: -6971482865008787157
+    second: blackdragon_refined_77
+  - first:
+      213: -7581597009996892491
+    second: blackdragon_refined_78
+  - first:
+      213: 8637570823031029221
+    second: blackdragon_refined_79
+  - first:
+      213: 2018526008044662009
+    second: blackdragon_refined_80
+  - first:
+      213: 8351528934874776261
+    second: blackdragon_refined_81
+  - first:
+      213: -7759521046996133408
+    second: blackdragon_refined_82
+  - first:
+      213: 2555271635898683119
+    second: blackdragon_refined_83
+  - first:
+      213: 984913505129653580
+    second: blackdragon_refined_84
+  - first:
+      213: 8805923126340423548
+    second: blackdragon_refined_85
+  - first:
+      213: 2024591099446275826
+    second: blackdragon_refined_86
+  - first:
+      213: -5474868110165257028
+    second: blackdragon_refined_87
+  - first:
+      213: 2854146589820674313
+    second: blackdragon_refined_88
+  - first:
+      213: -3562401381500590775
+    second: blackdragon_refined_89
+  - first:
+      213: -5308321486497210974
+    second: blackdragon_refined_90
+  - first:
+      213: 79873705017548532
+    second: blackdragon_refined_91
+  - first:
+      213: 6901016736301647300
+    second: blackdragon_refined_92
+  - first:
+      213: -4777400491831663687
+    second: blackdragon_refined_93
+  - first:
+      213: 3163138147003968384
+    second: blackdragon_refined_94
+  - first:
+      213: 22553179615406311
+    second: blackdragon_refined_95
+  - first:
+      213: 8872666002249990265
+    second: blackdragon_refined_96
+  - first:
+      213: -2697773539118279832
+    second: blackdragon_refined_97
+  - first:
+      213: 7392433865653983003
+    second: blackdragon_refined_98
+  - first:
+      213: 7732314371336702409
+    second: blackdragon_refined_99
+  - first:
+      213: -2240027899724297501
+    second: blackdragon_refined_100
+  - first:
+      213: 3323311568438357601
+    second: blackdragon_refined_101
+  - first:
+      213: 7020252388058714011
+    second: blackdragon_refined_102
+  - first:
+      213: -3674042621183282811
+    second: blackdragon_refined_103
+  - first:
+      213: 581387536101366901
+    second: blackdragon_refined_104
+  - first:
+      213: 4771404916179412394
+    second: blackdragon_refined_105
+  - first:
+      213: -7251287180025145626
+    second: blackdragon_refined_106
+  - first:
+      213: -6675213733337795911
+    second: blackdragon_refined_107
+  - first:
+      213: 4282738777160520587
+    second: blackdragon_refined_108
+  - first:
+      213: -337602632493539482
+    second: blackdragon_refined_109
+  - first:
+      213: -4091822097216261081
+    second: blackdragon_refined_110
+  - first:
+      213: -3623405539007870042
+    second: blackdragon_refined_111
+  - first:
+      213: -3611592461304506035
+    second: blackdragon_refined_112
+  - first:
+      213: -2218337562330068723
+    second: blackdragon_refined_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackdragon_refined_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77829f9c327631210800000000000000
+      internalID: 1302498120650270839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 923
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a24784207f4f7df0800000000000000
+      internalID: -180338117003754840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 986
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80e5da78ece8110800000000000000
+      internalID: 1265175627462215907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 576
+        width: 135
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8872f0a02b3ca0a0800000000000000
+      internalID: -6869050320321611635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 912
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4e9580382591f0800000000000000
+      internalID: -1038879950173746235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 949
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8774c6fc98c4d6790800000000000000
+      internalID: -7535282446746761352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 933
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429241c33bd307db0800000000000000
+      internalID: -4796265763133183708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 919
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc9de413118f4a0800000000000000
+      internalID: -6559473953791160391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 912
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda938f2e0c664010800000000000000
+      internalID: 1172743561159088859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cbfaa325c741000800000000000000
+      internalID: 5766192147971227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 916
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5475c13aabaea80800000000000000
+      internalID: -8436725742207285772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 961
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4bb2c6ded565d0800000000000000
+      internalID: -3069802557011701943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 912
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd3fc2a626db4800800000000000000
+      internalID: 597806836985314772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 937
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0747d32ada24e910800000000000000
+      internalID: 1865663262030776076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555f7c978760e9a0800000000000000
+      internalID: -6205846454372706987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_15
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 935
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932f87086435bc60800000000000000
+      internalID: 7833224748288910236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 956
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a159759f2206ddd0800000000000000
+      internalID: -2461777742916922972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 912
+        width: 268
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a35a208cec454f0800000000000000
+      internalID: -840819871978276243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 956
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28193f4c80e382e0800000000000000
+      internalID: -2124607705959557074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_19
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1702aa716abbe30800000000000000
+      internalID: 4520389271565136364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6753b6e7bae410800000000000000
+      internalID: 1507219226788064781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_21
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106bfe9b04e3c000800000000000000
+      internalID: 55138359021625370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 936
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fc8e940df5274b0800000000000000
+      internalID: -5444183651339677845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_23
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 996
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcffef1d8563c620800000000000000
+      internalID: 2793187850700455164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 950
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c758fb7a4b7610800000000000000
+      internalID: 1619970387277759651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 228
+        width: 161
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d295cbf13242f40800000000000000
+      internalID: 5702721647368809832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_26
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 945
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e562f95cd10870800000000000000
+      internalID: 8647435038405027234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_27
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 974
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4c40ae2a6ba570800000000000000
+      internalID: 8478987471945485916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_28
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 928
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b46e6d1bc7a4020800000000000000
+      internalID: 2326809260746754918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_29
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 955
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e12d683ed1cd520800000000000000
+      internalID: 2728088337336376893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_30
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471da98e4d0e34c00800000000000000
+      internalID: 883797156934898036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_31
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 916
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce65af94e2ff9470800000000000000
+      internalID: 8403702493441519296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c138914246613d0800000000000000
+      internalID: -3236289176009499646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 872
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23641f79e0381950800000000000000
+      internalID: 6419935048234197803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_34
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 866
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3484a30fa57ca50800000000000000
+      internalID: 6541296971595400101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 843
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e0e84989b576c0800000000000000
+      internalID: -4146203882640317954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 740
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f76b6fd83cbc0b0800000000000000
+      internalID: -5707253088265011302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_37
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfce81cb22b62af0800000000000000
+      internalID: -421453614111862841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_38
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 717
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a00ab47a18018490800000000000000
+      internalID: -7745900974380023648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292bbd274ef14970800000000000000
+      internalID: 8737544333738846504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 630
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de7cd571fa62810800000000000000
+      internalID: 1740270820917767433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_41
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4769da20219762df0800000000000000
+      internalID: -205343614737475980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_42
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917d9f40c9366dae0800000000000000
+      internalID: -1524921902068803815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_43
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 597
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39691e43d8263ee70800000000000000
+      internalID: 9143260027109349011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_44
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 569
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae6fc05a0b1a530800000000000000
+      internalID: 3864564178194197122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b735d5308e7280730800000000000000
+      internalID: 3965463349342065531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_46
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec618a7c707ade60800000000000000
+      internalID: 7987820569028553964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 544
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c971291ea2b6a78d0800000000000000
+      internalID: -2847845982441171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 534
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d456c940bf718040800000000000000
+      internalID: 4648136685551768793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 438
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1585687741d820800000000000000
+      internalID: 2941210614074514120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735c2f8f782a6b1f0800000000000000
+      internalID: -1029456759926635209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_51
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 435
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bef7dd1c6a21060800000000000000
+      internalID: 6922778928796920619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_52
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5e4f7bb463a7c0800000000000000
+      internalID: -4061291682500552082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da304714fda6d9e0800000000000000
+      internalID: -1596897753982551335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_54
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 373
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0c775c721616070800000000000000
+      internalID: 8097860428433440930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 356
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8977e626e2872a50800000000000000
+      internalID: 6496304912512022923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_56
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029a3fec9fff9a60800000000000000
+      internalID: 7683140538810929668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_57
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66ff66a33a2c8a0800000000000000
+      internalID: -6286282658624346428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86417d0f1e5394f0800000000000000
+      internalID: -823210819416144243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e62c92979ca7e960800000000000000
+      internalID: 7631257860602341091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_60
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad24fe182e04ceeb0800000000000000
+      internalID: -4689301770412801318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_61
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60f8aa6e2dde860800000000000000
+      internalID: 7560931237570741953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_62
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d124e7b0cbd29fa60800000000000000
+      internalID: 7708242522891239965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_63
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbd0a4afdeec4840800000000000000
+      internalID: 5209801513267944402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_64
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8aa7deca795760800000000000000
+      internalID: 7447118487633956394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_65
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 243
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b306983bd43d3ee0800000000000000
+      internalID: -1279808602951515214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 211
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d0d302e6e139e0800000000000000
+      internalID: -1643278530612505397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e56700110d97d0800000000000000
+      internalID: -2910168615856248352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_68
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 211
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2968c274ad1a50360800000000000000
+      internalID: 7135287143507461778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8271f26fe2cf4a810800000000000000
+      internalID: 1775821431719794472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_70
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d73da7c7ba6a7e0800000000000000
+      internalID: -1754526453689254653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_71
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f894a28655cd990800000000000000
+      internalID: -7359913785155809521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8fd313f0258ba0800000000000000
+      internalID: -6087423092938797081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef330bbef087270800000000000000
+      internalID: 8248360222476992116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe97646cd71b5d0800000000000000
+      internalID: -3048517182213722360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281d0b435b489b710800000000000000
+      internalID: 1709543447371764098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_76
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4784ae0d735e5a0800000000000000
+      internalID: -6492721917361359712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_77
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21cd615541504f90800000000000000
+      internalID: -6971482865008787157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_78
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6b8fc30b1c8c690800000000000000
+      internalID: -7581597009996892491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edfa0556e0ded770800000000000000
+      internalID: 8637570823031029221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca36fa5be330c10800000000000000
+      internalID: 2018526008044662009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c28b96615796e370800000000000000
+      internalID: 8351528934874776261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_82
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 84
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d0ae28b4a05490800000000000000
+      internalID: -7759521046996133408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee4f52b306267320800000000000000
+      internalID: 2555271635898683119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 86
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ecb75d9d1bad00800000000000000
+      internalID: 984913505129653580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_85
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0be87d6ce43a70800000000000000
+      internalID: 8805923126340423548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_86
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 80
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea9e1d0eac81c10800000000000000
+      internalID: 2024591099446275826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 80
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45c7df57c5504b0800000000000000
+      internalID: -5474868110165257028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_88
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90167279337fb9720800000000000000
+      internalID: 2854146589820674313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_89
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945eb4461decf8ec0800000000000000
+      internalID: -3562401381500590775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad92c39bbd0556b0800000000000000
+      internalID: -5308321486497210974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_91
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe177626b4cb1100800000000000000
+      internalID: 79873705017548532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_92
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c50944982655cf50800000000000000
+      internalID: 6901016736301647300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_93
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 52
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e89e709343bdb0800000000000000
+      internalID: -4777400491831663687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_94
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba8abb269b5eb20800000000000000
+      internalID: 3163138147003968384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_95
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e828835fff105000800000000000000
+      internalID: 22553179615406311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_96
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970cbca38ba022b70800000000000000
+      internalID: 8872666002249990265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_97
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863186472459f8ad0800000000000000
+      internalID: -2697773539118279832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_98
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179fdb1f63379660800000000000000
+      internalID: 7392433865653983003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_99
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c90c2304f2be4b60800000000000000
+      internalID: 7732314371336702409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_100
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea08fd4e72d9e0e0800000000000000
+      internalID: -2240027899724297501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_101
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee6ba8346ce1e20800000000000000
+      internalID: 3323311568438357601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_102
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc3df1a52fc6160800000000000000
+      internalID: 7020252388058714011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_103
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b9b2b3bd230dc0800000000000000
+      internalID: -3674042621183282811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c592e32e0811800800000000000000
+      internalID: 581387536101366901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52d64cd7f673240800000000000000
+      internalID: 4771404916179412394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_106
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d14e8ab04e5b90800000000000000
+      internalID: -7251287180025145626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 12
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27790f970ec53a0800000000000000
+      internalID: -6675213733337795911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_108
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8391761a385f6b30800000000000000
+      internalID: 4282738777160520587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_109
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5cf6c138905bf0800000000000000
+      internalID: -337602632493539482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_110
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 17
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724b4536b7de637c0800000000000000
+      internalID: -4091822097216261081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_111
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc0422cd317bdc0800000000000000
+      internalID: -3623405539007870042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_112
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49577e9acb01edc0800000000000000
+      internalID: -3611592461304506035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackdragon_refined_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0909658db1e631e0800000000000000
+      internalID: -2218337562330068723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
