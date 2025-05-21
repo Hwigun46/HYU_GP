@@ -6,16 +6,16 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 2f;
     public float jumpForce = 0.5f;
     public float fallMultiplier = 2.5f;
-    public Boolean isReversal = false;
+    public bool isReversal = false;
 
     private Rigidbody2D rb;
     private SpriteRenderer sr;
-    private bool isJumping = false;
+    private bool isGrounded = false;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>(); // ✅ SpriteRenderer 받아오기
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
 
         transform.position += new Vector3(moveX, 0f, 0f) * moveSpeed * Time.deltaTime;
 
-        // ✅ 좌우 방향에 따라 flip 처리
+        // flip 처리
         if (!isReversal && moveX != 0)
         {
             sr.flipX = moveX < 0;
@@ -37,12 +37,12 @@ public class PlayerController : MonoBehaviour
             sr.flipX = !(moveX < 0);
         }
 
-        // 점프 (한 번만 가능)
-            if (Input.GetKeyDown(KeyCode.W) && !isJumping)
-            {
-                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                isJumping = true;
-            }
+        // 점프 (Ground에 있을 때만)
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+        {
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            isGrounded = false;
+        }
 
         // 낙하 속도 강화
         if (rb.linearVelocity.y < 0)
@@ -53,10 +53,17 @@ public class PlayerController : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        // 착지 시 다시 점프 가능하게
-        if (collision.contacts[0].normal.y > 0.5f)
+        // Layer가 Ground일 때만 isGrounded = true
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
-            isJumping = false;
+            foreach (ContactPoint2D contact in collision.contacts)
+            {
+                if (contact.normal.y > 0.5f)
+                {
+                    isGrounded = true;
+                    break;
+                }
+            }
         }
     }
 }
