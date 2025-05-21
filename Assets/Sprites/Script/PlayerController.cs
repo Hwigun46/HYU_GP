@@ -8,8 +8,6 @@ public class PlayerController : MonoBehaviour
     public float fallMultiplier = 2.5f;
     public bool isReversal = false;
 
-    public LayerMask groundLayer; // 바닥 레이어 지정
-
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private bool isGrounded = false;
@@ -58,8 +56,7 @@ public class PlayerController : MonoBehaviour
 
     void CheckGround()
     {
-        Vector2 origin = transform.position;
-        RaycastHit2D hit = Physics2D.Raycast(origin, Vector2.down, groundCheckDistance, groundLayer);
+        RaycastHit2D hit = Physics2D.Raycast(rb.position, Vector2.down, groundCheckDistance, LayerMask.GetMask("Ground"));
         isGrounded = hit.collider != null;
     }
     
