@@ -1390,14 +1390,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2e6c7fc3362423d81ee2eeda27f604, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
-  jumpForce: 0.5
-  fallMultiplier: 2.5
+  moveSpeed: 6
+  jumpForce: 10
+  fallMultiplier: 3.5
   isReversal: 0
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
-  groundCheckDistance: 1.5
+  groundCheckDistance: 1
 --- !u!1 &2040754950
 GameObject:
   m_ObjectHideFlags: 0

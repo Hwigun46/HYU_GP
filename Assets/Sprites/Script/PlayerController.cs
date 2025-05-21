@@ -62,11 +62,11 @@ public class PlayerController : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(origin, Vector2.down, groundCheckDistance, groundLayer);
         isGrounded = hit.collider != null;
     }
-
+    
     // 디버그용 Ray 시각화
     void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawLine(transform.position, transform.position + Vector3.down * groundCheckDistance);
-    }
+{
+    Gizmos.color = Color.red;
+    Gizmos.DrawLine(transform.position, transform.position + Vector3.down * groundCheckDistance);
+}
 }
