@@ -11,8 +11,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private bool isGrounded = false;
-
-    public float groundCheckDistance = 1f; // 바닥과 거리
+    [Header("Ground Check")]
+    public Transform groundCheckPoint;    // 발목 또는 발 중앙에 빈 Transform
+    public float groundCheckRadius = 0.2f; 
+    public LayerMask groundLayer;
 
     void Start()
     {
@@ -56,14 +58,18 @@ public class PlayerController : MonoBehaviour
 
     void CheckGround()
     {
-        RaycastHit2D hit = Physics2D.Raycast(rb.position, Vector2.down, groundCheckDistance, LayerMask.GetMask("Ground"));
-        isGrounded = hit.collider != null;
+        isGrounded = Physics2D.OverlapCircle(
+            groundCheckPoint.position, 
+            groundCheckRadius, 
+            groundLayer
+        );
     }
     
     // 디버그용 Ray 시각화
     void OnDrawGizmosSelected()
-{
-    Gizmos.color = Color.red;
-    Gizmos.DrawLine(transform.position, transform.position + Vector3.down * groundCheckDistance);
-}
+    {
+        if (groundCheckPoint == null) return;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundCheckPoint.position, groundCheckRadius);
+    }
 }
