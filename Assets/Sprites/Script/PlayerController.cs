@@ -8,32 +8,45 @@ public class PlayerController : MonoBehaviour
     public float fallMultiplier = 2.5f;
     public bool isReversal = false;
 
+    public AudioClip jumpSound;             // 점프 효과음
+    private AudioSource audioSource;        // 사운드 재생기
+
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private bool isGrounded = false;
+
     [Header("Ground Check")]
-    public Transform groundCheckPoint;    // 발목 또는 발 중앙에 빈 Transform
-    public float groundCheckRadius = 0.2f; 
+    public Transform groundCheckPoint;      // 발밑 체크용 Transform
+    public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+
+        // AudioSource 연결 (없으면 자동 추가)
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        audioSource.playOnAwake = false;
     }
 
     void Update()
     {
-        // Ray로 바닥 감지
+        // 바닥 체크
         CheckGround();
 
-        // 좌우 이동
+        // 좌우 이동 처리
         float moveX = 0f;
         if (Input.GetKey(KeyCode.A)) moveX = -1f;
         if (Input.GetKey(KeyCode.D)) moveX = 1f;
         transform.position += new Vector3(moveX, 0f, 0f) * moveSpeed * Time.deltaTime;
 
-        // flip 처리
+        // 캐릭터 반전 처리
         if (!isReversal && moveX != 0)
         {
             sr.flipX = moveX < 0;
@@ -43,29 +56,36 @@ public class PlayerController : MonoBehaviour
             sr.flipX = !(moveX < 0);
         }
 
-        // 점프
+        // 점프 처리
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+
+            // 점프 사운드 재생
+            if (jumpSound != null)
+            {
+                audioSource.PlayOneShot(jumpSound);
+            }
         }
 
-        // 낙하 가속
+        // 낙하 시 중력 추가 가속 적용
         if (rb.linearVelocity.y < 0)
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
         }
     }
 
+    // 바닥 감지
     void CheckGround()
     {
         isGrounded = Physics2D.OverlapCircle(
-            groundCheckPoint.position, 
-            groundCheckRadius, 
+            groundCheckPoint.position,
+            groundCheckRadius,
             groundLayer
         );
     }
-    
-    // 디버그용 Ray 시각화
+
+    // 디버그용: 바닥 체크 시각화
     void OnDrawGizmosSelected()
     {
         if (groundCheckPoint == null) return;

@@ -6,6 +6,9 @@ public class BadItem : MonoBehaviour
     public float frequency = 1f;        // 1초당 사이클 수
     private Vector3 startPos;
     public UIManager uiManager;
+
+    public AudioClip badItemSound;      // 부정적인 아이템 사운드
+
     protected virtual void Start()
     {
         // 초기 위치 저장
@@ -14,18 +17,24 @@ public class BadItem : MonoBehaviour
 
     protected virtual void Update()
     {
-        // Time.time * frequency 에 따라 0~2π 사이를 왕복하는 Sine 함수값을 구하고
-        // amplitude 를 곱해 위아래로 부드럽게 이동
+        // 부드러운 위아래 움직임
         float offsetY = Mathf.Sin(Time.time * Mathf.PI * 2f * frequency) * amplitude;
         transform.position = startPos + Vector3.up * offsetY;
     }
+
     protected virtual void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            // 필요시: 점수 증가, 체력 증가 등 로직 여기에 추가
+            // 소리 먼저 재생 (플레이어 위치나 카메라 위치 기준)
+            if (badItemSound != null)
+            {
+                AudioSource.PlayClipAtPoint(badItemSound, Camera.main.transform.position);
+            }
+
             uiManager.Damage();
-            Destroy(gameObject); // 아이템 제거
+
+            Destroy(gameObject); // 아이템 즉시 제거
         }
     }
 }

@@ -18,7 +18,7 @@ public class UIManager : MonoBehaviour
         needItem = 5;
         getItem = 0;
         currentHealth = maxHealth;
-        
+
     }
 
     // Update is called once per frame
@@ -46,4 +46,6 @@ public class UIManager : MonoBehaviour
     {
         currentHealth = Mathf.Clamp(currentHealth - 20f, 0, maxHealth);
     }
+    
+    
 }
