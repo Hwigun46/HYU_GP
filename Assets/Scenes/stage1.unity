@@ -2236,6 +2236,7 @@ GameObject:
   - component: {fileID: 1821320873}
   - component: {fileID: 1821320872}
   - component: {fileID: 1821320874}
+  - component: {fileID: 1821320875}
   m_Layer: 0
   m_Name: Aga
   m_TagString: Player
@@ -2430,6 +2431,19 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &1821320875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821320867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd43631598ce493e92d6ba0ca538225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resetYThreshold: -5
 --- !u!1 &1880804298
 GameObject:
   m_ObjectHideFlags: 0
