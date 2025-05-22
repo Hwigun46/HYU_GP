@@ -5,6 +5,7 @@ public class UpBadItem : BadItem
 {
     public Transform target;
     public float trigPositionX;
+    public int speed;
     private Boolean isCome = false;
     protected override void Start()
     {
@@ -22,7 +23,7 @@ public class UpBadItem : BadItem
         {
             if (transform.position.y < 40)
             {
-                transform.Translate(0, 10 * Time.deltaTime, 0);
+                transform.Translate(0, speed * Time.deltaTime, 0);
             }
         }
     }

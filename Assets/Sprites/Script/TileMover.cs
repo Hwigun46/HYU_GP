@@ -11,7 +11,7 @@ public class TileMover : MonoBehaviour
 
     void Start()
     {
-        startPositionY = transform.position.x;
+        startPositionY = transform.position.y;
         endPositionY = startPositionY - distance;
     }
 
