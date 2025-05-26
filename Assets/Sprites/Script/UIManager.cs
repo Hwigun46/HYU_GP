@@ -46,6 +46,18 @@ public class UIManager : MonoBehaviour
     {
         currentHealth = Mathf.Clamp(currentHealth - 20f, 0, maxHealth);
     }
-    
-    
+
+    // 아이템을 다 모았는지 확인하는 함수
+    public bool HasCollectedAllItems()
+    {
+        return getItem >= needItem;
+    }
+
+    // 다음 스테이지 진입 시 아이템 수 초기화
+    public void ResetItemCount()
+    {
+        getItem = 0;
+    }
+
 }
+
