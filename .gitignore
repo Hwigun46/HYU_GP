@@ -79,3 +79,6 @@ crashlytics-build.properties
 .DS_Store
 *.mov
 *.mov.meta
+
+*.mp4
+*.mp4.meta
