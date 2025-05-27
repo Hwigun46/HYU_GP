@@ -154,6 +154,7 @@ MonoBehaviour:
   uiManager: {fileID: 1713091833}
   amplitude: 0.1
   frequency: 1
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &81205819
 Rigidbody2D:
   serializedVersion: 5
@@ -2032,6 +2033,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 1713091833}
+  badItemSound: {fileID: 0}
 --- !u!50 &1648012472
 Rigidbody2D:
   serializedVersion: 5
@@ -2426,6 +2428,7 @@ MonoBehaviour:
   jumpForce: 10
   fallMultiplier: 3.5
   isReversal: 1
+  jumpSound: {fileID: 0}
   groundCheckPoint: {fileID: 1591485415}
   groundCheckRadius: 0.4
   groundLayer:
@@ -2444,6 +2447,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resetYThreshold: -5
+  deathSound: {fileID: 0}
+  uiManager: {fileID: 1713091833}
 --- !u!1 &1880804298
 GameObject:
   m_ObjectHideFlags: 0
@@ -2682,9 +2687,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c73cff4bfc0fd4780af563b247b1d13e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiManager: {fileID: 0}
+  uiManager: {fileID: 1713091833}
   amplitude: 0.1
   frequency: 1
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &2040754954
 Rigidbody2D:
   serializedVersion: 5
