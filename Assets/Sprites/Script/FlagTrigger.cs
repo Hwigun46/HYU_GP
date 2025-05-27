@@ -35,6 +35,10 @@ public class FlagTrigger : MonoBehaviour
         // 2. 아이템 부족 → 무조건 배드엔딩
         if (!hasAllItems)
         {
+            if (GameSession.instance != null)
+            {
+                GameSession.instance.previousStage = currentStage;
+            }
             SceneManager.LoadScene(badEndingScene);
             return;
         }
