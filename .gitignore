@@ -75,5 +75,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 .vscode/
+
+.DS_Store
 *.mov
 *.mov.meta
+
+*.mp4
+*.mp4.meta
