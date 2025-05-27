@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 78228d9a554c949768764ade76346689
+guid: d50522cbd04cf464292265fc3720cd36
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 657193517335828509
-    second: image 1_0
+      213: 295734460211603330
+    second: Ending_Scene_5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image 1_0
+      name: Ending_Scene_5_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 1200
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d18dd75a502de1900800000000000000
-      internalID: 657193517335828509
+      spriteID: 28721c8bce8aa1400800000000000000
+      internalID: 295734460211603330
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      image 1_0: 657193517335828509
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
