@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-using System;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
@@ -9,6 +9,10 @@ public class UIManager : MonoBehaviour
     public Image fillImage;
     public float maxHealth = 100f;
     private float currentHealth;
+
+    public string deathEndingScene; // ← 여기에 엔딩 씬 이름 지정 가능
+    private bool isDead = false;    // 중복 방지
+
     private int needItem;
     private int getItem;
 
@@ -18,7 +22,6 @@ public class UIManager : MonoBehaviour
         needItem = 5;
         getItem = 0;
         currentHealth = maxHealth;
-
     }
 
     // Update is called once per frame
@@ -26,7 +29,28 @@ public class UIManager : MonoBehaviour
     {
         count.text = getItem + "/" + needItem;
         UpdateHealthBar();
+
+        // 피 0일 때 한 번만 엔딩 씬 로딩
+        if (!isDead && currentHealth <= 0f)
+        {
+            isDead = true;
+
+            if (GameSession.instance != null)
+            {
+                GameSession.instance.previousStage = SceneManager.GetActiveScene().name;
+            }
+
+            if (!string.IsNullOrEmpty(deathEndingScene))
+            {
+                SceneManager.LoadScene(deathEndingScene);
+            }
+            else
+            {
+                Debug.LogWarning("deathEndingScene이 설정되지 않았습니다.");
+            }
+        }
     }
+
     void UpdateHealthBar()
     {
         if (fillImage != null)
@@ -34,6 +58,7 @@ public class UIManager : MonoBehaviour
             fillImage.fillAmount = currentHealth / maxHealth;
         }
     }
+
     public void GetItem()
     {
         if (getItem < needItem)
@@ -58,6 +83,4 @@ public class UIManager : MonoBehaviour
     {
         getItem = 0;
     }
-
 }
-
