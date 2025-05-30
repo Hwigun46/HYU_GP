@@ -37,6 +37,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        // 게임이 일시정지 상태라면 아무 것도 하지 않음
+        if (PauseManager.isPaused) return;
         // 바닥 체크
         CheckGround();
 
