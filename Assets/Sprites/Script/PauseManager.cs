@@ -44,6 +44,6 @@ public class PauseManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         _isPaused = false;
-        SceneManager.LoadScene("Intro");
+        SceneManager.LoadScene("start");
     }
 }

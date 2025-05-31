@@ -45,12 +45,12 @@ public class EndingUI : MonoBehaviour
         else
         {
             Debug.LogWarning("GameSession이나 previousStage가 없습니다. 기본 씬으로 돌아갑니다.");
-            SceneManager.LoadScene("Intro");
+            SceneManager.LoadScene("start");
         }
     }
 
     public void OnMainClicked()
     {
-        SceneManager.LoadScene("Intro");
+        SceneManager.LoadScene("start");
     }
 }
