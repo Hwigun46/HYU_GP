@@ -8010,7 +8010,7 @@ MonoBehaviour:
   uiManager: {fileID: 1398950533}
   badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
   target: {fileID: 416560499}
-  trigPositionX: 82
+  trigPositionX: 70
   speed: 40
 --- !u!50 &1239942159
 Rigidbody2D:
