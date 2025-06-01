@@ -169,7 +169,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
   target: {fileID: 1573901590}
   trigPositionX: 32
   speed: 10
@@ -1997,7 +1997,7 @@ MonoBehaviour:
   uiManager: {fileID: 247376923}
   amplitude: 0.1
   frequency: 1
-  itemSound: {fileID: 0}
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &446827056
 Rigidbody2D:
   serializedVersion: 5
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   uiManager: {fileID: 247376923}
   amplitude: 0.1
   frequency: 1
-  itemSound: {fileID: 0}
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &687846794
 Rigidbody2D:
   serializedVersion: 5
@@ -3088,7 +3088,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &703347086
 Rigidbody2D:
   serializedVersion: 5
@@ -3383,7 +3383,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &783850776
 Rigidbody2D:
   serializedVersion: 5
@@ -3577,7 +3577,7 @@ MonoBehaviour:
   uiManager: {fileID: 247376923}
   amplitude: 0.1
   frequency: 1
-  itemSound: {fileID: 0}
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &811177574
 Rigidbody2D:
   serializedVersion: 5
@@ -3971,7 +3971,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &829068314
 Rigidbody2D:
   serializedVersion: 5
@@ -4392,7 +4392,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &959569697
 Rigidbody2D:
   serializedVersion: 5
@@ -4556,7 +4556,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &995126601
 Rigidbody2D:
   serializedVersion: 5
@@ -5094,7 +5094,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1049210356
 Rigidbody2D:
   serializedVersion: 5
@@ -5625,7 +5625,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1218829553
 Rigidbody2D:
   serializedVersion: 5
@@ -6370,7 +6370,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1301518316
 Rigidbody2D:
   serializedVersion: 5
@@ -7032,7 +7032,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1365495072
 Rigidbody2D:
   serializedVersion: 5
@@ -10120,7 +10120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resetYThreshold: -10
-  deathSound: {fileID: 8300000, guid: 53b0901265fdf4118bb4060507051bbc, type: 3}
+  deathSound: {fileID: 8300000, guid: bd8857660a16ba549b8cc522d93d9117, type: 3}
   uiManager: {fileID: 247376923}
 --- !u!1 &1658403426
 GameObject:
@@ -10157,7 +10157,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1658403428
 Rigidbody2D:
   serializedVersion: 5
@@ -10351,7 +10351,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
   target: {fileID: 1573901590}
   trigPositionX: 137.03
   speed: 30
@@ -10518,7 +10518,7 @@ MonoBehaviour:
   uiManager: {fileID: 247376923}
   amplitude: 0.1
   frequency: 1
-  itemSound: {fileID: 0}
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &1685004944
 Rigidbody2D:
   serializedVersion: 5
@@ -10697,7 +10697,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1716578315
 Rigidbody2D:
   serializedVersion: 5
@@ -11027,7 +11027,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1728767460
 Rigidbody2D:
   serializedVersion: 5
@@ -11283,7 +11283,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1776501054
 Rigidbody2D:
   serializedVersion: 5
@@ -11707,7 +11707,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &1918068316
 Rigidbody2D:
   serializedVersion: 5
@@ -11901,7 +11901,7 @@ MonoBehaviour:
   uiManager: {fileID: 247376923}
   amplitude: 0.1
   frequency: 1
-  itemSound: {fileID: 0}
+  itemSound: {fileID: 8300000, guid: f433e7478acbc4f6a9e7932af0539e0c, type: 3}
 --- !u!50 &1923422924
 Rigidbody2D:
   serializedVersion: 5
@@ -12981,7 +12981,7 @@ MonoBehaviour:
   amplitude: 0.1
   frequency: 1
   uiManager: {fileID: 247376923}
-  badItemSound: {fileID: 0}
+  badItemSound: {fileID: 8300000, guid: f790fc01dea11473abab7106f1db89a0, type: 3}
 --- !u!50 &2014756509
 Rigidbody2D:
   serializedVersion: 5
